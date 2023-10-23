@@ -2,22 +2,24 @@
 ![Screenshot 2023-10-23 at 4 38 07 PM](https://github.com/Zaidbhati10114/note-junction/assets/59171704/33239198-7f47-457d-aa53-09347debec5a)
 
 Key Features:
-* Bullet list
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Real-time database 🔗
+* Real-time database 🔗
+* Notion-style editor 📝
+* Light and Dark mode 🌓
+* Infinite children documents 🌲
+* Trash can & soft delete 🗑️
+* Authentication 🔐
+* File upload
+* File deletion
+* File replacement
+* Icons for each document (changes in real-time) 🌠
+* Expandable sidebar ➡️🔀⬅️
+* Full mobile responsiveness 📱
+* Publish your note to the web 🌐
+* Fully collapsable sidebar ↕️
+* Landing page 🛬
+* Cover image of each document 🖼️
+* Recover deleted files 🔄📄
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
