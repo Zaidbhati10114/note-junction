@@ -1,9 +1,10 @@
 
 ![Screenshot 2023-10-23 at 4 38 07 PM](https://github.com/Zaidbhati10114/note-junction/assets/59171704/33239198-7f47-457d-aa53-09347debec5a)
-data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWRhdGFiYXNlLWJhY2t1cCI+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIi8+PHBhdGggZD0iTTMgMTJhOSAzIDAgMCAwIDUgMi42OSIvPjxwYXRoIGQ9Ik0yMSA5LjNWNSIvPjxwYXRoIGQ9Ik0zIDV2MTRhOSAzIDAgMCAwIDYuNDcgMi44OCIvPjxwYXRoIGQ9Ik0xMiAxMnY0aDQiLz48cGF0aCBkPSJNMTMgMjBhNSA1IDAgMCAwIDktMyA0LjUgNC41IDAgMCAwLTQuNS00LjVjLTEuMzMgMC0yLjU0LjU0LTMuNDEgMS40MUwxMiAxNiIvPjwvc3ZnPg==
+
 
 Key Features:
-* Real-time database 
+
+* Real-time database ![database-backup](https://github.com/Zaidbhati10114/note-junction/assets/59171704/b5ddbd18-48d9-4031-bc96-db70bfcaeb10)
 * Notion-style editor 
 * Light and Dark mode 
 * Infinite children documents 
