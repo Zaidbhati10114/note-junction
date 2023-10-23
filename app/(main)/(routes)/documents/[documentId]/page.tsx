@@ -8,6 +8,7 @@ import { Cover } from "@/components/cover";
 import { Skeleton } from "@/components/ui/skeleton";
 import dynamic from "next/dynamic";
 import { useMemo } from "react";
+import PdfView from "@/components/PdfView";
 
 interface DocumentIdPageProps {
   params: {
@@ -58,6 +59,8 @@ const DocumentIdPage = ({ params }: DocumentIdPageProps) => {
       <div className="md:max-w-3xl lg:max-w-4xl mx-auto">
         {/* Toolbar */}
         <ToolBar initialData={document} />
+        {/* PDF Viewer */}
+
         {/* editor */}
         <Editor onChange={onChange} initialContent={document.content} />
       </div>

@@ -102,12 +102,28 @@ export const Publish = ({ initialData }: PublishProps) => {
               </Button>
             </div>
             <Button
-              className="w-full text-xs"
+              className="w-full text-base"
               size="sm"
               disabled={isSubmitting}
               onClick={onUnPublish}
             >
               Unpublish
+            </Button>
+            <Button
+              className="w-full text-xs"
+              size="sm"
+              variant="secondary"
+              disabled={isSubmitting}
+              onClick={() => {}}
+            >
+              <a
+                className="text-blue-500 text-base"
+                rel="noopener noreferrer"
+                target="_blank"
+                href={url}
+              >
+                Visit
+              </a>
             </Button>
           </div>
         ) : (

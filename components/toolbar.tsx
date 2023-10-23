@@ -100,15 +100,17 @@ export const ToolBar = ({ initialData, preview }: ToolBarProps) => {
           </IconPicker>
         )}
         {!initialData.coverImage && !preview && (
-          <Button
-            onClick={coverImage.onOpen}
-            className="text-muted-foreground text-xs"
-            variant="outline"
-            size="sm"
-          >
-            <ImageIcon className="h-4 w-4 mr-2" />
-            Add cover
-          </Button>
+          <>
+            <Button
+              onClick={coverImage.onOpen}
+              className="text-muted-foreground text-xs"
+              variant="outline"
+              size="sm"
+            >
+              <ImageIcon className="h-4 w-4 mr-2" />
+              Add cover
+            </Button>
+          </>
         )}
       </div>
       {isEditing && !preview ? (
