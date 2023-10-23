@@ -1,3 +1,25 @@
+
+![Screenshot 2023-10-23 at 4 38 07 PM](https://github.com/Zaidbhati10114/note-junction/assets/59171704/33239198-7f47-457d-aa53-09347debec5a)
+
+Key Features:
+Markup :  #### Real-time database 🔗 ####
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
