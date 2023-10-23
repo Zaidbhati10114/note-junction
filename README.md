@@ -1,10 +1,10 @@
 
 ![Screenshot 2023-10-23 at 4 38 07 PM](https://github.com/Zaidbhati10114/note-junction/assets/59171704/33239198-7f47-457d-aa53-09347debec5a)
-
+![database-backup](https://github.com/Zaidbhati10114/note-junction/assets/59171704/b5ddbd18-48d9-4031-bc96-db70bfcaeb10)
 
 Key Features:
 
-* Real-time database ![database-backup](https://github.com/Zaidbhati10114/note-junction/assets/59171704/b5ddbd18-48d9-4031-bc96-db70bfcaeb10)
+* Real-time database 
 * Notion-style editor 
 * Light and Dark mode 
 * Infinite children documents 
