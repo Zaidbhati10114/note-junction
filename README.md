@@ -4,7 +4,7 @@
 
 Key Features:
 
-* Real-time database 
+* Real-time database 🔗
 * Notion-style editor 
 * Light and Dark mode 
 * Infinite children documents 
