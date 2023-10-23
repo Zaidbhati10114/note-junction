@@ -1,8 +1,8 @@
 
 ![Screenshot 2023-10-23 at 4 38 07 PM](https://github.com/Zaidbhati10114/note-junction/assets/59171704/33239198-7f47-457d-aa53-09347debec5a)
+data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWRhdGFiYXNlLWJhY2t1cCI+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIi8+PHBhdGggZD0iTTMgMTJhOSAzIDAgMCAwIDUgMi42OSIvPjxwYXRoIGQ9Ik0yMSA5LjNWNSIvPjxwYXRoIGQ9Ik0zIDV2MTRhOSAzIDAgMCAwIDYuNDcgMi44OCIvPjxwYXRoIGQ9Ik0xMiAxMnY0aDQiLz48cGF0aCBkPSJNMTMgMjBhNSA1IDAgMCAwIDktMyA0LjUgNC41IDAgMCAwLTQuNS00LjVjLTEuMzMgMC0yLjU0LjU0LTMuNDEgMS40MUwxMiAxNiIvPjwvc3ZnPg==
 
 Key Features:
-* Real-time database <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-database-backup"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 12a9 3 0 0 0 5 2.69"/><path d="M21 9.3V5"/><path d="M3 5v14a9 3 0 0 0 6.47 2.88"/><path d="M12 12v4h4"/><path d="M13 20a5 5 0 0 0 9-3 4.5 4.5 0 0 0-4.5-4.5c-1.33 0-2.54.54-3.41 1.41L12 16"/></svg>
 * Real-time database 
 * Notion-style editor 
 * Light and Dark mode 
